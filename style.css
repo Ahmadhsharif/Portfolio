@@ -126,5 +126,14 @@ header{
     color: #3a6cf4;
     font-size: 8em;
     text-align: center;
-    
+
+}
+.info{
+    text-align: center;
+}
+.info h3{
+    color: #3a6cf4;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
 }
