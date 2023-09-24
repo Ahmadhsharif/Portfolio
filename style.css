@@ -143,3 +143,6 @@ header{
 .contact .info h3 {
     color: #000;
 }
+.contact .info {
+    font-size: 1.5em;
+}
