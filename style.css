@@ -137,3 +137,9 @@ header{
     font-weight: 700;
     margin: 10px;
 }
+.contact .icon{ 
+    font-size: 4.5em;
+}
+.contact .info h3 {
+    color: #000;
+}
