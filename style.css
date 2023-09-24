@@ -89,3 +89,8 @@ header{
     background-color: #0a49f6;
     transform: scale(1.1);
 }
+.social-icons a{
+    color: #fff;
+    font-size: 1.7em;
+    padding-left: 20px;
+}
